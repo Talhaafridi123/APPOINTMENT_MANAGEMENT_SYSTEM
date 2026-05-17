@@ -1,0 +1,14 @@
+id,appointment_id,doctor_name,specialization,clinic_hospital,patient_age,symptoms,prescription_notes
+1,1,Cameron Caldwell,Neurology,Medicare Clinic,59,Skin rash,Rest advised
+2,8,Daniel Lyons,Neurology,City Care Center,64,Fever and cough,Ultrasound required
+3,9,Christopher Lawson,Cardiology,Medicare Clinic,63,Back pain,Blood test required
+4,15,Brian Weiss,Pediatrics,City Care Center,45,,Ultrasound required
+5,20,Mr. Alexander Collins,Neurology,City Care Center,59,,Rest advised
+6,23,Tyler Sanders,Pediatrics,Lady Reading Hospital,62,Headache,Rest advised
+7,24,Billy Vaughn,Neurology,KTH Peshawar,71,,
+8,27,Brian Barton,Cardiology,KTH Peshawar,61,Chest pain,
+9,32,Kyle Martinez,ENT,Shifa Hospital,39,Joint pain,Follow-up in 2 weeks
+10,38,Richard Reed MD,Dermatology,Medicare Clinic,22,Back pain,Rest advised
+11,43,Jonathan Peterson,Orthopedics,Shifa Hospital,32,Chest pain,Blood test required
+12,44,Rodney Garcia,Orthopedics,KTH Peshawar,74,,Blood test required
+13,46,Mr. Ronald Zimmerman,General Physician,Shifa Hospital,58,Routine checkup,Ultrasound required

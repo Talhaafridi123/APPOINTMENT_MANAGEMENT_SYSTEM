@@ -1,0 +1,4 @@
+id,admin_id,name,email,password,created_at
+1,ADM-2025-00001,Ali Hassan,ali.admin@ims.edu.pk,e498ea3a9531da9ea44ef5272b63a970aa107f5f730f887bf5e2428f4acada0c,2026-05-16 17:08:32
+2,ADM-2025-00002,Sara Qureshi,sara.admin@ims.edu.pk,650ca21f3bf05670ab8acdf47a6d2c99f71773574a577632251ade5aeba4c090,2026-05-16 17:08:55
+3,ADM-2025-00003,Bilal Ahmed,bilal.admin@ims.edu.pk,8fd75965a87f29910a635de2ba218b9ac849f47be67105802e99a537b25838a2,2026-05-16 17:08:39

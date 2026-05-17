@@ -1,0 +1,5 @@
+id,type_code,type_name,description,is_active
+1,DOC,Doctor Appointment,Medical consultation with doctors and specialists.,1
+2,HOME,Home Service,Home maintenance and repair service scheduling.,1
+3,LAW,Lawyer/Court,Legal consultations and court hearing appointments.,1
+4,UNI,University/Office,Academic and government office meeting appointments.,1
